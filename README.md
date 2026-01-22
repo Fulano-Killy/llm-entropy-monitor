@@ -49,4 +49,7 @@ The following output demonstrates the engine in action. It monitors the token st
 ![Terminal Output](Screenshot_20260122_142721.jpg)
 
 
+Developed and tested on mobile architecture to ensure lightweight performance.
+
+
 
