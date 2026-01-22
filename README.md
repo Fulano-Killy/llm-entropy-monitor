@@ -31,6 +31,7 @@ if status["status"] == "CRITICAL":
     print("Loop detected! Resetting context...")
     # Implement mitigation logic (e.g., increase temperature or reset buffer)
 
+---
 
 📊 Benefits
  * Resource Saving: Stops useless token generation instantly.
