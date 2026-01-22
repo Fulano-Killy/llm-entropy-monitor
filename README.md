@@ -29,7 +29,8 @@ status = monitor.analyze_stream(next_token)
 
 if status["status"] == "CRITICAL":
     print("Loop detected! Resetting context...")
-    # Implement mitigation logic (e.g., increase temperature or reset buffer)```
+    # Implement mitigation logic (e.g., increase temperature or reset buffer)
+```python
 
 📊 Benefits
  * Resource Saving: Stops useless token generation instantly.
