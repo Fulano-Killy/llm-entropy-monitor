@@ -17,7 +17,8 @@ Where:
 ### 2.1 The Critical Threshold Condition
 A standard LLM failure mode (looping) occurs when the entropy drops below a specifically derived constant $\epsilon$ (Empirical Entropy Floor). The intervention logic is triggered when:
 
-$$H(S_{window}) < \epsilon \implies \text{Trigger}(\text{Stochastic\_Injection})$$
+$$H(S_{window}) < \epsilon \implies \text{Trigger}(\text{Stochastic Injection})$$
+
 
 This inequality ensures that the system only intervenes when the informational content approaches zero (redundancy), preserving the model's reasoning capabilities during normal operation.
 
