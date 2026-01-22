@@ -33,11 +33,11 @@ if status["status"] == "CRITICAL":
 
 ---
 
-📊 Benefits
+##📊 Benefits
  * Resource Saving: Stops useless token generation instantly.
  * Model Agnostic: Works with OpenAI, Google Gemini, Anthropic, or local Llama models.
  * Zero Latency: Extremely fast calculation overhead.
-🤝 Contributing
+##🤝 Contributing
 Engineers and data scientists are welcome to contribute to optimizing the threshold algorithms.
 
 
