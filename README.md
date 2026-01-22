@@ -33,9 +33,6 @@ if status["status"] == "CRITICAL":
 ```
 
 
----
-
-
 ## 📊 Benefits
  * Resource Saving: Stops useless token generation instantly.
  * Model Agnostic: Works with OpenAI, Google Gemini, Anthropic, or local Llama models.
