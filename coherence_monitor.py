@@ -7,7 +7,7 @@ class EntropyMonitor:
     Module for Real-Time Semantic Density Analysis in LLM Streams.
     Prevents deterministic loops by monitoring Shannon Entropy thresholds.
     """
-    def __init__(self, entropy_threshold=1.2, window_size=10):
+    def __init__(self, entropy_threshold=1.2, window_size=5):
         # Umbral termodinámico estándar para lenguaje natural
         self.threshold = entropy_threshold
         self.window_size = window_size
